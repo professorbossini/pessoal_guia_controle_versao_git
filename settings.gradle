@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='pessoal_guia_controle_versao_git'
